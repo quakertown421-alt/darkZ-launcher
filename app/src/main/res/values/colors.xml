@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="darkz_background">#070B14</color>
+    <color name="darkz_panel">#121925</color>
+    <color name="darkz_accent">#67E8F9</color>
+    <color name="darkz_accent_2">#8B5CF6</color>
+</resources>
